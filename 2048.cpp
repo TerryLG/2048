@@ -18,7 +18,8 @@ void tod(int n[][SIZE]);
 //主函数
 int main()
 {
-    int i,j;
+    int i;
+    int j;
     int n[SIZE][SIZE];
     char c=' ';
     for(i=0;i<SIZE;i++)
