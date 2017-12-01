@@ -1,8 +1,9 @@
 #include<stdio.h>
 #include<stdlib.h>
 #include<time.h>
-#include<conio.h>
 #include<windows.h>
+#include<conio.h>
+
 #define SIZE 4
 static int score=0;
 void putn(int n[][SIZE]);
